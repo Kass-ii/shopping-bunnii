@@ -15,7 +15,9 @@ Table of contents:
 
 
 # 2. Introduction
-<p align="left">
-  <img src="sticker.jpg" alt="Sticker" width="500">
-</p>
 <h1 align="center">🌸 Shopping Bunnii 🌸</h1>
+- this 
+
+<p align="center" style="font-size:30px; color:#ff69b4;">
+  🌸 Shopping Bunnii 🌸
+</p>
