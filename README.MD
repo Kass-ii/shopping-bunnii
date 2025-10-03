@@ -11,7 +11,7 @@ Table of contents:
 
 
 <p align="center">
-  <img src="![QR code](QR%20-%20shopping%20bunnii.png)" width="400" alt="Screenshot">
+  <img src="[QR code](QR%20-%20shopping%20bunnii.png)" width="400" alt="Screenshot">
 </p>
 
 
