@@ -14,6 +14,10 @@ Table of contents:
   <img src="[QR code](QR%20-%20shopping%20bunnii.png)" width="400" alt="Screenshot">
 </p>
 
+<p align="center">
+  <img src="QR%20-%20shopping%20bunnii.png" alt="QR code" width="300">
+</p>
+
 
 ![QR code](QR%20-%20shopping%20bunnii.png)
 
