@@ -1,6 +1,6 @@
 ## Shopping Bunnii
 Table of contents:
-1. QR code (expo Go)
+1. QR code (Expo Go)
 2. Introduction
 3. Description of project
 4. Technical components
@@ -8,7 +8,7 @@ Table of contents:
 
 <h1 align="center">🍓 Shopping Bunnii 🍓</h1>
 
-# 1. QR code (expo Go)
+# 1. QR code (Expo Go)
 
 <p align="left">
   <img src="QR%20-%20shopping%20bunnii.png" alt="QR code" width="300">
@@ -21,4 +21,4 @@ Hello, my name is Kassidy, and I am a third year student at UT Arlington. I spen
 🍓 🐻
 
 # Description of project
-🍓 🐻 I made this shopping app to help you remember waht you needed to buy, and how many. This is a simple app to 'add', 'subtract' and 'delete' grocery items from your list. You should be able to interact with this app like normal, and see the many items you need to purchase. 🍓 🐻
+🍓 🐻 I made this shopping app to help you remember what items you needed to buy, and how many. This is a simple app to 'add', 'subtract' and 'delete' grocery items from your list. You should be able to interact with this app like normal, and see the many items you need to purchase. 🍓 🐻
