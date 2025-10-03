@@ -18,6 +18,6 @@ Table of contents:
 <h1 align="center">🌸 Shopping Bunnii 🌸</h1>
 - this 
 
-<p align="center" style="font-size:30px; color:#ff69b4;">
+<p align="center" style="font-size:30px; color:#FFC0CB;">
   🌸 Shopping Bunnii 🌸
 </p>
