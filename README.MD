@@ -9,7 +9,7 @@ Table of contents:
 
 # 1. QR code (expo Go)
 
-<p align="center">
+<p align="left">
   <img src="QR%20-%20shopping%20bunnii.png" alt="QR code" width="300">
 </p>
 
