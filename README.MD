@@ -13,3 +13,7 @@ Table of contents:
 <p align="center">
   <img src="assets/QR.jpg" width="400" alt="Screenshot">
 </p>
+
+
+![QR code](QR%20-%20shopping%20bunnii.png)
+
