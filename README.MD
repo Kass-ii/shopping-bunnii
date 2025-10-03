@@ -18,3 +18,4 @@ Table of contents:
 <p align="left">
   <img src="sticker.jpg" alt="Sticker" width="500">
 </p>
+<h1 align="center">🌸 Shopping Bunnii 🌸</h1>
