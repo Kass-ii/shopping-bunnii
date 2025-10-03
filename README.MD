@@ -20,5 +20,10 @@ Table of contents:
 Hello, my name is Kassidy, and I am a third year student at UT Arlington. I spent a lot of my career focusing on backend, databases, and infra/cloud, but recently I've discovered front end and it's been really fun. I enjoy making happy and cute UI while maintaining a functional, modern, and intuitive design. I hope you enjoy 'Shopping Bunnii' ! 
 🍓 🐻
 
-# Description of project
+
+# 3. Description of project
 🍓 🐻 I made this shopping app to help you remember what items you needed to buy, and how many. This is a simple app to 'add', 'subtract' and 'delete' grocery items from your list. You should be able to interact with this app like normal, and see the many items you need to purchase. 🍓 🐻
+
+
+# 4. Technical components
+![UML](UML shopping bunnii .png)
