@@ -16,5 +16,5 @@ Table of contents:
 
 # 2. Introduction
 <p align="left">
-  <img src="sticker.jpg" alt="Sticker" width="50">
+  <img src="sticker.jpg" alt="Sticker" width="500">
 </p>
