@@ -17,7 +17,7 @@ Table of contents:
 
 # 2. Introduction
 🍓 🐻 
-Hello, my name is Kassidy, and I am a third year student at UT Arlington. I spent a lot of my career focusing on backend, databases, and infra/cloud, but recently i've discovered front end and it's been really fun. I enjoy making happy and cute UI while maintaining a functional, modern, and intuitive design. I hope you enjoy 'Shopping Bunnii' ! 
+Hello, my name is Kassidy, and I am a third year student at UT Arlington. I spent a lot of my career focusing on backend, databases, and infra/cloud, but recently I've discovered front end and it's been really fun. I enjoy making happy and cute UI while maintaining a functional, modern, and intuitive design. I hope you enjoy 'Shopping Bunnii' ! 
 🍓 🐻
 
 # Description of project
