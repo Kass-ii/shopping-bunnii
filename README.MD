@@ -8,10 +8,10 @@ Table of contents:
 
 
 # 1. QR code (expo Go)
-![QR CODE](<img width="235" height="249" alt="Image" src="https://github.com/user-attachments/assets/905b344b-63df-42bb-b92c-97410a76947a" />)
+
 
 <p align="center">
-  <img src="assets/QR.jpg" width="400" alt="Screenshot">
+  <img src="![QR code](QR%20-%20shopping%20bunnii.png)" width="400" alt="Screenshot">
 </p>
 
 
