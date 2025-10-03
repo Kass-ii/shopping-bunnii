@@ -15,5 +15,5 @@ Table of contents:
 </p>
 
 
-![QR code](QR%20-%20shopping%20bunnii.png)
+
 
