@@ -14,3 +14,7 @@ Table of contents:
 </p>
 
 
+# 2. Introduction
+<p align="left">
+  <img src"sticker.jpg> alt="Sticker" width="50">
+</p>
