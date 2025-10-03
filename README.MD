@@ -11,7 +11,7 @@ Table of contents:
 # 1. QR code (Expo Go)
 
 <p align="left">
-  <img src="QR%20-%20shopping%20bunnii.png" alt="QR code" width="300">
+  <img src="QR%20-%20shopping%20bunnii.png" alt="QR code" width="200">
 </p>
 
 
@@ -27,7 +27,7 @@ Hello, my name is Kassidy, and I am a third year student at UT Arlington. I spen
 
 # 4. Technical components
 <p align="left">
-  <img src="UML%20shopping%20bunnii.png" alt="QR code" width="300">
+  <img src="UML%20shopping%20bunnii.png" alt="QR code" width="500">
 </p>
 
 
