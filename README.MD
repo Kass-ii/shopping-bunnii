@@ -1,5 +1,5 @@
 ## Shopping Bunnii
-🍓Table of contents:
+🍓Table of contents🍓
 1. QR code (Expo Go) 🍓
 2. Introduction 🍓
 3. Description of project 🍓
